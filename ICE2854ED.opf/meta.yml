@@ -1,0 +1,40 @@
+id: ICE2854ED
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:05:05.666149'
+last_modified: '2022-06-19T01:05:05.666161'
+parser: null
+source_metadata:
+  title: History of excellent Masters in Tibet
+  author: dmar ston chos kyi rgyal po/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2014-03-19); revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - 'Digital edition:Sakya Research Centre; This text was digitally published by Sachen
+    International (Digital Text version/id: NAMT001 sa paN gyi gsung sgros lam ''bras
+    bla ma brgyud
+
+    pa''i rnam thar). (src)'
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:Mathias Fermer (mf), Gabi Coura (gc)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:blo gsal don grub/ (ld)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/210
+  bases:
+    7c03:
+      title: History of excellent Masters in Tibet
+      order: 1
+      base_file: 7c03.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
